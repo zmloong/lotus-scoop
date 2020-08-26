@@ -1,10 +1,10 @@
 
-# echo-scoop
+# lotus-scoop
 
 ### How to install bucket
 
 ```bash
-scoop bucket add lotus https://github.com/echoiron/echo-scoop
+scoop bucket add lotus https://github.com/zmloong/lotus-scoop
 ```
 
 ### App of installing bucket
