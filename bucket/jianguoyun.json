@@ -7,7 +7,7 @@
     "bin": "NutstoreWindowsWPFInstaller.exe",
     "shortcuts": [
         [
-            "JianGuoYun.exe",
+            "NutstoreWindowsWPFInstaller.exe",
             "坚果云"
         ]
     ]
