@@ -4,7 +4,7 @@
     "homepage": "https://www.jianguoyun.com/",
     "license": "BSD-3-Clause",
     "url": "https://www.jianguoyun.com/static/exe/installer/NutstoreWindowsWPFInstaller.exe",
-    "bin": "JianGuoYun.exe",
+    "bin": "NutstoreWindowsWPFInstaller.exe",
     "shortcuts": [
         [
             "JianGuoYun.exe",
