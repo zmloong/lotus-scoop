@@ -3,7 +3,7 @@
     "description": "坚果云是一款便捷、安全的专业网盘产品，通过文件自动同步、共享、备份功能，为用户实现智能文件管理，提供高效办公解决方案。",
     "homepage": "https://www.jianguoyun.com/",
     "license": "BSD-3-Clause",
-    "url": "https://www.jianguoyun.com/static/exe/installer/NutstoreWindowsWPFInstaller.exe#/dl.7z",
+    "url": "https://www.jianguoyun.com/static/exe/installer/NutstoreWindowsWPFInstaller.exe",
     "bin": "JianGuoYun.exe",
     "shortcuts": [
         [
